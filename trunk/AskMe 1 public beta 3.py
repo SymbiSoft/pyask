@@ -1,5 +1,5 @@
 # pyAsk simple app asking from predefinied words
-# author: ranza, website: http://masteranza.wordpress.com
+# author: ranza, website: http://masteranza.wordpress.com sss
 
 import appuifw, e32, audio, re, random, os, time
 appuifw.app.title = u"pyAsk"
